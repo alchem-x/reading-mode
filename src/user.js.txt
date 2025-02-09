@@ -1,0 +1,10 @@
+// ==UserScript==
+// @name         阅读模式
+// @namespace    https://alchem-x.github.io/reading-mode/
+// @description  小说阅读网站阅读模式扩展脚本
+// @author       阿尔贝鲁
+// @version      1.1
+// @match        *://*/*
+// @grant        none
+// ==/UserScript==
+
